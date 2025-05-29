@@ -2,7 +2,7 @@ Geographic Recursion Spiral (GRS) Analyzer
 
 This Python project models the Geographic Recursion Spiral (GRS), a novel mathematical framework for understanding civilizational dynamics as recursive, waveform-like cycles originating from the Giza pyramid complex. Based on the research of Amber Anson (2025), this tool calculates spatial distances from Giza to historical nodes and computes each node's position within a 15,440-year civilizational cycle.
 
-📐 Core Features
+Core Features
 
 Haversine Distance Calculation: Measures great-circle distance between Giza and key historical nodes.
 
@@ -11,14 +11,14 @@ GRS Cycle Completion: Calculates the percentage completion of the civilizational
 Embedded Node Dataset: Includes 11 historically significant locations and events.
 
 
-📁 File Contents
+File Contents
 
 geographic_recursion_spiral.py — Main script to run the analysis.
 
 README.md — Project documentation (this file).
 
 
-🚀 How to Use
+How to Use
 
 1. Clone the repository or download the script.
 
@@ -37,7 +37,7 @@ Percentage of the GRS cycle completed for each historical node
 
 
 
-🧠 Example Output
+Example Output
 
 Egyptian Origin: Distance 0.0 km, Cycle 0.00%
 Sumerian Emergence: Distance 1438.0 km, Cycle 58.89%
@@ -45,7 +45,7 @@ Giza Peak: Distance 0.0 km, Cycle 70.20%
 ...
 Gaza Crisis: Distance 361.2 km, Cycle 100.22%
 
-🧪 Node Dataset
+Node Dataset
 
 The historical nodes include:
 
@@ -72,7 +72,7 @@ Ottoman Expansion (1450 CE)
 Gaza Crisis (2025 CE)
 
 
-🌌 Theoretical Basis
+Theoretical Basis
 
 Total civilizational cycle duration: 15,440 years
 
@@ -83,7 +83,7 @@ Overflow condition at: 100% cycle completion (approx. 1994 CE)
 GRS defines history as a fractal waveform expanding and contracting from an informational origin
 
 
-🔭 Future Enhancements
+Future Enhancements
 
 Visualizations (e.g., spiral maps or timeline plots)
 
